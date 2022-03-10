@@ -3,7 +3,7 @@
     "164687666653bca883": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"luminous-brand-jumbo\">\n<h1 class=\"luminous-brand-title\">Something BIG is happening <img class=\"luminous-period\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_96icons.png?v=1646878808\" \/><\/h1>\n<h3 class=\"luminous-brand-tagline\">A <em>new<\/em> dance convention.<\/h3>\n<\/div>",
+        "custom_liquid": "<div class=\"luminous-brand-jumbo\">\n<h1 class=\"luminous-brand-title\">Something BIG is happening <img class=\"luminous-period\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_96icons.png?v=1646878808\" \/><\/h1>\n<h2 class=\"luminous-brand-tagline\">A <em>new<\/em> dance convention.<\/h2>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
