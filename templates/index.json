@@ -9,6 +9,15 @@
         "padding_bottom": 52
       }
     },
+    "16469554392cbd60f5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<hr class=\"luminous-hr\" \/>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16468766611411c68d": {
       "type": "rich-text",
       "disabled": true,
@@ -255,6 +264,7 @@
   },
   "order": [
     "164687666653bca883",
+    "16469554392cbd60f5",
     "16468766611411c68d",
     "image_banner",
     "rich_text",
