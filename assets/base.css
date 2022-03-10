@@ -2889,8 +2889,17 @@ details-disclosure > details {
 
 .luminous-brand-jumbo {
   text-align: center;
+  position: relative;
 }
 
 .luminous-brand-title {
   font-style: italic;
+  font-size: 8rem!important;
+}
+
+.luminous-period {
+  display: inline;
+  max-width: 150px;
+  bottom: 0;
+  position: absolute;
 }
