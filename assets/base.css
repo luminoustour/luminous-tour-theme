@@ -2886,3 +2886,11 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+.luminous-brand-jumbo {
+  text-align: center;
+}
+
+.luminous-brand-title {
+  font-style: italic;
+}
