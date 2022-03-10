@@ -3,7 +3,7 @@
     "164687666653bca883": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"luminous-brand-jumbo\">\n<h1 class=\"luminous-brand-title\">Something BIG is happening <img class=\"luminous-period\" src=\"\" \/><\/h1>\n<h3 class=\"luminous-brand-tagline\">A <em>new<\/em> dance convention.<\/h3>\n<\/div>",
+        "custom_liquid": "<div class=\"luminous-brand-jumbo\">\n<h1 class=\"luminous-brand-title\">Something BIG is happening <img class=\"luminous-period\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_96icons.png?v=1646878808\" \/><\/h1>\n<h3 class=\"luminous-brand-tagline\">A <em>new<\/em> dance convention.<\/h3>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -11,6 +11,7 @@
     },
     "16468766611411c68d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1646876661647b5ba4-0": {
           "type": "heading",
@@ -48,6 +49,7 @@
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -95,6 +97,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -123,6 +126,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -143,6 +147,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -181,6 +186,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -194,6 +200,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
