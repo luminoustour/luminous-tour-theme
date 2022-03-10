@@ -2895,6 +2895,13 @@ details-disclosure > details {
 .luminous-brand-title {
   font-style: italic;
   font-size: 8rem!important;
+  margin-bottom: 5px;
+}
+
+.luminous-brand-tagline {
+  font-size: 5rem;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 .luminous-period {
@@ -2902,4 +2909,13 @@ details-disclosure > details {
   max-width: 150px;
   bottom: 0;
   position: absolute;
+}
+
+.luminous-header {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+sticky-header {
+  border-bottom: none!important;
 }
