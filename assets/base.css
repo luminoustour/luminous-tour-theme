@@ -2963,10 +2963,11 @@ sticky-header {
   z-index: 100;
 }
 
-.luminous-hr {
+/* .luminous-hr {
   border-bottom: 2px solid #2d2a2d; 
   padding-bottom: 15px; 
   position: relative;
+  content: "";
 }
 
 .luminous-hr:before, 
@@ -2984,4 +2985,21 @@ sticky-header {
 .luminous-hr:after {
   right: 0; 
   left: auto;
+} */
+
+.luminous-hr {
+  height: 4px;
+  background: #000;
+}
+.luminous-hr:before, .luminous-hr:after {
+  content: '';
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  float: left;
+  background: #000;
+  margin-top: -3px;
+}
+.luminous-hr:after {
+  float: right;
 }
