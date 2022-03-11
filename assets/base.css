@@ -2988,10 +2988,11 @@ sticky-header {
 } */
 
 .luminous-hr {
-  height: 4px;
+  height: 1px;
   background: #2d2a2d;
   display: block!important;
   margin: auto;
+  width: 95%;
 }
 .luminous-hr:before, .luminous-hr:after {
   content: '';
