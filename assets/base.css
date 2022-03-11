@@ -3040,3 +3040,14 @@ sticky-header {
     margin-left: 15px;
     margin-top: -45px;
 }
+
+.luminous-footer-hero {
+  text-align: center;
+}
+
+.luminous-footer-pixie {
+  max-width: 100px;
+  display: block;
+  margin: auto;
+  margin-top: 45px;
+}
