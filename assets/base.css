@@ -3055,3 +3055,47 @@ sticky-header {
 .luminous-page-footer {
   border: none!important;
 }
+
+.luminous-newsletter-wrapper {
+  padding-left: 25px!important;
+}
+
+.luminous-newsletter-subheading {
+  margin-left: 0!important;
+  margin-right: 0!important;
+}
+
+.luminous-newsletter-form {
+  margin: 0!important;
+  width: 100%!important;
+}
+
+.luminous-field-input {
+  width: 100%;
+  background: #f4edf7;
+  border: 1px solid #2d2a2d;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.luminous-field-wrapper {
+  max-width: 100%!important;
+}
+
+.luminous-input-label {
+  margin-bottom: 0!important;
+}
+
+.luminous-submit-button {
+  width: 100%;
+  background-color: #f4edf7;
+  color: #2d2a2d;
+  margin-top: 30px;
+  border-radius: 50px;
+  border: 0.25px solid #2d2a2d;
+  --border-offset: 0;
+}
+
+.luminous-alternate-logo {
+  height: 75px;
+}

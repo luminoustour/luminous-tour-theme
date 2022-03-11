@@ -10,6 +10,10 @@
   }
 }
 
+:root {
+  --gradient-base-background-1: #2d2a2d;
+}
+
 .newsletter__wrapper > * {
   margin-top: 0;
   margin-bottom: 0;
@@ -47,4 +51,8 @@
     flex-shrink: 0;
     margin: 0 0 0 1rem;
   }
+}
+
+.luminous-newsletter-wrapper > .h2, .luminous-newsletter-wrapper > .h0, .luminous-newsletter-wrapper > p, .luminous-input-label, .copyright__content {
+  color: #f4edf7!important;
 }
