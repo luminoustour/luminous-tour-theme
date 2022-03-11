@@ -3053,5 +3053,5 @@ sticky-header {
 }
 
 .luminous-page-footer {
-  border: none;
+  border: none!important;
 }
