@@ -3011,6 +3011,7 @@ sticky-header {
 
 .luminous-option-circle {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .luminous-option-circle > div {
