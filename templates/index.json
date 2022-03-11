@@ -18,6 +18,15 @@
         "padding_bottom": 52
       }
     },
+    "1646959097beceff99": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"luminous-footer-hero\">\n<h2>Contact us to learn more about Luminous Tour<\/h2>\n\n<a class=\"luminous-button\" href=\"mailto:info@luminoustour.com\">info@luminoustour.com<\/a>\n\n<img class=\"luminous-footer-pixie\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_80icons.png?v=1646878807\">\n\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16468766611411c68d": {
       "type": "rich-text",
       "disabled": true,
@@ -265,6 +274,7 @@
   "order": [
     "164687666653bca883",
     "16469554392cbd60f5",
+    "1646959097beceff99",
     "16468766611411c68d",
     "image_banner",
     "rich_text",
