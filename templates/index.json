@@ -12,7 +12,7 @@
     "16469554392cbd60f5": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"luminous-hr\"> <\/div>",
+        "custom_liquid": "<div class=\"luminous-hr\"> <\/div>\n\n<div class=\"luminous-options-container\">\n\n<div class=\"luminous-option-circle\">\n<h2>move<\/h2>\n<\/div>\n\n<div class=\"luminous-option-circle\">\n<h2>play<\/h2>\n<\/div>\n\n<div class=\"luminous-option-circle\">\n<h2>learn<\/h2>\n<\/div>\n\n<div class=\"luminous-option-circle\">\n<h2>explore<\/h2>\n<\/div>\n\n<\/div>\n\n<div class=\"luminous-hr\"> <\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
