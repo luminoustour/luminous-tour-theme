@@ -12,7 +12,7 @@
     "16469554392cbd60f5": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"luminous-hr\"> <\/div>\n\n<div class=\"luminous-options-container\">\n\n<div class=\"luminous-option-circle\">\n<h2>move<\/h2>\n<\/div>\n\n<div class=\"luminous-option-circle\">\n<h2>play<\/h2>\n<\/div>\n\n<div class=\"luminous-option-circle\">\n<h2>learn<\/h2>\n<\/div>\n\n<div class=\"luminous-option-circle\">\n<h2>explore<\/h2>\n<\/div>\n\n<\/div>\n\n<div class=\"luminous-hr\"> <\/div>",
+        "custom_liquid": "<div class=\"luminous-hr\"> <\/div>\n\n<div class=\"luminous-options-container\">\n\n<div class=\"luminous-option-circle\">\n    <div>\n<h2 class=\"col-md-6\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_82icons.png?v=1646878807\" class=\"luminous-option-circle-image\">move<\/h2>\n    <\/div>\n    <div>\n    <h2><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_85icons.png?v=1646878807\" class=\"luminous-option-circle-image\">play<\/h2>\n    <\/div>\n    <div>\n    <h2><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_82icons.png?v=1646878807\" class=\"luminous-option-circle-image\">learn<\/h2>\n    <\/div>\n    <div>\n    <h2><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/5448\/7523\/files\/Asset_85icons.png?v=1646878807\" class=\"luminous-option-circle-image\">explore<\/h2>\n    <\/div>\n<\/div>\n\n<\/div>\n\n<div class=\"luminous-hr\"> <\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
