@@ -3051,3 +3051,7 @@ sticky-header {
   margin: auto;
   margin-top: 45px;
 }
+
+.luminous-page-footer {
+  display: none;
+}
