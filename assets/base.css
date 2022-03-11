@@ -2989,7 +2989,9 @@ sticky-header {
 
 .luminous-hr {
   height: 4px;
-  background: #000;
+  background: #2d2a2d;
+  display: block!important;
+  margin: auto;
 }
 .luminous-hr:before, .luminous-hr:after {
   content: '';
@@ -2997,8 +2999,9 @@ sticky-header {
   width: 10px;
   border-radius: 10px;
   float: left;
-  background: #000;
-  margin-top: -3px;
+  background: #fffd63;
+  margin-top: -5px;
+  border: 1px solid #2d2a2d;
 }
 .luminous-hr:after {
   float: right;
